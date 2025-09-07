@@ -8,7 +8,7 @@ It primarily aims to be compatible with clap, but work on supporting other argum
 
 ---
 
-<img src="./assets/ss1.png" align="right" width="40%">
+<img src="./assets/ss1.png" align="right" width="300px">
 
 **Simple when necessary**
 
@@ -22,7 +22,7 @@ simple multi flag programs to those with multiple nested subcommands.
 
 
 
-<img src="./assets/ss1.png" align="left" width="40%">
+<img src="./assets/ss1.png" align="left" width="300px">
 
 **Highly customizable**
 
